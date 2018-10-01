@@ -8,8 +8,17 @@
     "airbnb"
   ],
   "rules": {
+    "func-names": "off",
     "no-shadow": "off",
+    "no-this-before-super": "off",
+    "no-underscore-dangle": "off",
     "no-unused-vars": "error",
+    "no-use-before-define": "off",
     "no-var": "error",
+    "object-shorthand": "off",
+    "padded-blocks": "off",
+    "prefer-arrow-callback": "off",
+    "space-before-function-paren": "off",
+    "spaced-comment": "off"
   }
 }
